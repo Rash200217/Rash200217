@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rashmika Dhananjaya</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rash200217" alt="rash200217" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rashmika-dhananjaya-407722312/](https://www.linkedin.com/in/rashmika-dhananjaya-407722312/)
 
