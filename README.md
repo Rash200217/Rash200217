@@ -10,8 +10,7 @@
 ## <h1 align="left">🧩 Frontend Skills</h1>
 
 ```txt
-- React.js, Next.js, React Native, Redux, Zustand, Redux-Saga, Redux-Thunk
-- Angular, Vue.js, Svelte, Lit
+- React.js
 - HTML5, CSS3, Tailwind CSS, Bootstrap, Styled Components, SASS/SCSS, LESS
 - JavaScript, TypeScript, jQuery, Ajax
 - Ant Design, Material UI, Shadcn UI  
@@ -21,14 +20,11 @@
 
 ## <h1 align="left">🧠 Backend Skills</h1>
 
-```txt
-- Node.js / Express  
-- Python / Django, FastAPI, Flask, Vibe Coder
-- Go / gRPC
+```txt  
 - Java / Spring Boot
 - PHP / Laravel
-- MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch, DynamoDB, SQLite, SQL Server
-- Amazon Web Services (AWS), Azure, GCP, Firebase, Docker, Kubernetes
+- MySQL, PostgreSQL, MongoDB
+- AWS, Docker
 ```
 
 ##  <h1 align="left">💻 My favorite tools and technologies</h1>
