@@ -65,7 +65,9 @@
 </table>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rash200217&theme=dark" alt="rash200217" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rash200217&show_icons=true&locale=en" height="180" alt="Rash200217 GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rash200217&theme=dark" height="180" alt="Rash200217 Streak Stats" />
 </div>
 
 
