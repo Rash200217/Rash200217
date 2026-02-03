@@ -64,7 +64,7 @@
   </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rash200217&show_icons=true&locale=en&layout=compact" alt="rash200217" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rash200217&show_icons=true&locale=en" alt="rash200217" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rash200217&" alt="rash200217" /></p>
 
