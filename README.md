@@ -64,8 +64,8 @@
   </tr>
 </table>
 
-[![Rash200217's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rash200217&show_icons=true&locale=en)](https://github.com/Rash200217)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rash200217&" alt="Rash200217" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rash200217&theme=dark" alt="rash200217" />
+</div>
 
 
