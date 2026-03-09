@@ -11,7 +11,7 @@
 
 ```txt
 - React.js
-- HTML5, CSS3, Tailwind CSS, Bootstrap, Styled Components, SASS/SCSS, LESS
+- HTML5, CSS3, Tailwind CSS, Bootstrap, Styled Components, SASS/SCSS
 - JavaScript, TypeScript, jQuery, Ajax
 - Ant Design, Material UI, Shadcn UI  
 - Framer Motion, Konva.js, Three.js, Chart.js
