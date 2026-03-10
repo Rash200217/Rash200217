@@ -22,6 +22,8 @@
 
 ```txt  
 - Java / Spring Boot
+- C#  /  ASP.NET Core
+- Js  /  Express.js 
 - PHP / Laravel
 - MySQL, PostgreSQL, MongoDB
 - AWS, Docker
